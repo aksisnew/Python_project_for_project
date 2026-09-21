@@ -1,2 +1,8 @@
-# Python_project_for_project
-A gui based python project that I made for my project 
+# Python Gui App for project I submited in school
+
+---
+
+- A gui based python project
+- Gui
+- Search
+- Better ui elements
